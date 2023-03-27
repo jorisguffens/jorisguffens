@@ -11,6 +11,7 @@
 - 💬 Chat with me on [Discord](https://discord.gg/dNWfCajm2F)
 
 ## 🤔 Interesting information
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorisguffens&theme=transparent&border=00000000&stroke=00000000&disable_animations=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisguffens&layout=compact&hide_progress=true&theme=transparent&hide_border=true" height="195" />
@@ -27,3 +28,7 @@
   </a>
 </p>
 
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
