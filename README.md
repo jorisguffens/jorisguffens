@@ -31,3 +31,5 @@
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/GufliMC/TreasureChests/pull/1) in [GufliMC/TreasureChests](https://github.com/GufliMC/TreasureChests)
+<!--END_SECTION:activity-->
