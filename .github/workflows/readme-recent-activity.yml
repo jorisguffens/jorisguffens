@@ -19,6 +19,6 @@ jobs:
           node-version: 'v14.4.0'
           registry-url: 'https://registry.npmjs.org'
       
-      - uses: Jadhielv/github-activity-readme@master
+      - uses: nechry/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
