@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorisguffens&theme=transparent&border=00000000&stroke=00000000&disable_animations=true" width="50%"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisguffens&layout=compact&hide_progress=true&theme=transparent&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisguffens&layout=compact&hide_progress=true&theme=transparent&hide_border=true&disable_animations=true" width="42%" />
 </p>
 
 ## 🧊 Minecraft projects
