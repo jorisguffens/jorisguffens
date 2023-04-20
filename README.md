@@ -27,9 +27,3 @@
     <img src="https://user-images.githubusercontent.com/8937042/228071320-ae6f5aa9-1337-4fa6-aeb3-cfc471e46750.png" width="45%"/>
   </a>
 </p>
-
-## ⚡ Recent activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GufliMC/TreasureChests/pull/1) in [GufliMC/TreasureChests](https://github.com/GufliMC/TreasureChests)
-<!--END_SECTION:activity-->
