@@ -5,9 +5,8 @@
 
 - 🧙 Java wizard
 - 🎓 Degree in Applied Computer Science
-- 🎮 Developer at day, gamer at night
-- 🌍 Living in Leuven, Belgium
-- 🎹 Amateur piano player
+- 🎮 Developer by day. Gamer by night.
+- 🌍 Living in Aarschot, Belgium
 - 💬 Chat with me on [Discord](https://discord.gg/dNWfCajm2F)
 
 ## 🤔 Interesting information
