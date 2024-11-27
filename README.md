@@ -6,7 +6,7 @@
 - 🧙 Java wizard
 - 🎓 Degree in Applied Computer Science
 - 🎮 Developer by day. Gamer by night.
-- 🌍 Living in Aarschot, Belgium
+- 🌍 Living in Belgium
 - 💬 Chat with me on [Discord](https://discord.gg/dNWfCajm2F)
 
 ## 🤔 Interesting information
